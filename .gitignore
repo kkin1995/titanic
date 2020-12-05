@@ -1,0 +1,11 @@
+# Data Files
+
+data/
+
+# Virtual Environments
+
+venv/
+
+# iPython Notebook Misc Files
+
+.ipynb_checkpoints/
